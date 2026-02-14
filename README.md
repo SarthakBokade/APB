@@ -3,7 +3,7 @@ AMBA APB 3.0 Slave & Verification IP
 
 SystemVerilog implementation and verification environment for an AMBA APB 3.0 compliant slave, designed to demonstrate protocol understanding, transaction handling, and structured verification methodology.
 
-📌 Overview
+ Overview
 
 This project implements an AMBA APB 3.0 slave along with a class-based verification environment. The design supports basic read and write transactions and verifies correct protocol behavior using simulation-based verification.
 
@@ -17,7 +17,7 @@ Build a reusable verification environment
 
 Validate protocol correctness through simulation waveforms and console outputs
 
-🏗️ Architecture
+Architecture
 Design Components
 | Module         | Description                                             |
 | -------------- | ------------------------------------------------------- |
