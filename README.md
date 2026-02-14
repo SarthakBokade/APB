@@ -71,3 +71,31 @@ Proper protocol sequencing
 Stable control signals during access phase
 
 
+Simulation
+Tools Used
+
+ModelSim / QuestaSim / Vivado Simulator (or equivalent)
+
+Steps
+
+Compile all SystemVerilog files
+
+Run simulation using tb_top
+
+Observe console logs and waveform output
+
+Expected results:
+
+Successful read/write transactions
+
+Correct address and data transfers
+
+Proper APB timing behavior
+
+Results
+
+Functional verification completed using simulation
+
+Protocol timing validated through waveform analysis
+
+Correct slave response observed for all transactions
